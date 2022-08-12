@@ -1,5 +1,8 @@
 - 👋 Hi, I’m @syedgulahmed
-- 👀 I’m interested #MERN #SpringBoot #AWS
+- 👀 I’m interested 
+              <br />#MERN
+              <br />#SpringBoot 
+              <br />#AWS
 - 🌱 I’m currently learning MERN Stack and Java Microservices
 - 💞️ I’m looking for enterly level job or internship where I can kick-start my career
 - 📫 Reach me through
