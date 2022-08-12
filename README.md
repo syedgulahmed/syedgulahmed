@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @syedgulahmed
-- 👀 I’m interested 
+- 👀 I’m interested in
               <br />#MERN
               <br />#SpringBoot 
               <br />#AWS
