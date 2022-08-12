@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @syedgulahmed
-- 👀 I’m interested in Web Development and Web Services
+- 👀 I’m interested #MERN #SpringBoot #AWS
 - 🌱 I’m currently learning MERN Stack and Java Microservices
 - 💞️ I’m looking for enterly level job or internship where I can kick-start my career
 - 📫 Reach me through
