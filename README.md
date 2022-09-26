@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @syedgulahmed
 - 👀 I’m interested in
               <br />#MERN
+              <br />#Android Development
               <br />#SpringBoot 
               <br />#AWS
 - 🌱 I’m currently learning MERN Stack and Java Microservices
