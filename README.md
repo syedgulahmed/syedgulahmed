@@ -3,8 +3,8 @@
               <br />#MERN
               <br />#SpringBoot 
               <br />#AWS
-- 🌱 I’m currently learning MERN Stack and Java Microservices
-- 💞️ I’m looking for entery level job or internship where I can kick-start my career
+- 🌱 I’m currently working on MERN Stack and Java Applications and Microservices
+<!-- - 💞️ I’m looking for entery level job or internship where I can kick-start my career -->
 - 📫 Reach me through
                 <br />Email: syedgulahmed@hotmail.com
                 <br />Twitter: [@syedgulahmed](https://twitter.com/syed_gulahmed)
