@@ -1,8 +1,18 @@
 - 👋 Hi, I’m @syedgulahmed
-- 👀 I’m interested in
-              <br />#Java Backend Development
+- 👀 I’m interested in Java Backend Development involing following tech stack:
+              <br />Spring Boot
+              <br />Spring Security
+              <br />Hibernate
+              <br />ElasticSearch
+              <br />JUnit
+              <br />Mockito
+              <br />Redis
+              <br />Docker
+
 - 🌱 At my current role, I’m working on Java Backend Development and occasionally do contributions to Java based IDE Plugin Application. 
-<!-- - 💞️ With two years of valuable development experience, I am seeking opportunities that offer growth and learning experiences, where I can contribute by delivering scalable and maintainable code.   -->
+
+- 💞️ With two years of valuable development experience, I am seeking opportunities that offer growth and learning experiences, where I can contribute by delivering scalable and maintainable code.
+
 - 📫 Reach me through
                 <br />Email: syedgulahmed@hotmail.com
                 <br />Twitter: [@syedgulahmed](https://twitter.com/syed_gulahmed)
