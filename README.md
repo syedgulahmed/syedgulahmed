@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @syedgulahmed
 - 👀 I’m interested in
-              <br />#MERN
-              <br />#SpringBoot 
-              <br />#AWS
-- 🌱 I’m currently working on MERN Stack and Java Applications and Microservices
-<!-- - 💞️ I’m looking for entery level job or internship where I can kick-start my career -->
+              <br />#Java Backend Development
+- 🌱 At my current role, I’m working on Java Backend Development and occasionally do contributions to Java based IDE Plugin Application. 
+<!-- - 💞️ With two years of valuable development experience, I am seeking opportunities that offer growth and learning experiences, where I can contribute by delivering scalable and maintainable code.   -->
 - 📫 Reach me through
                 <br />Email: syedgulahmed@hotmail.com
                 <br />Twitter: [@syedgulahmed](https://twitter.com/syed_gulahmed)
